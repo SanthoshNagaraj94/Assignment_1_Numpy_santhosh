@@ -1,0 +1,2 @@
+# Assignment_1_Numpy_santhosh
+Assignment_1_Numpy_santhosh
